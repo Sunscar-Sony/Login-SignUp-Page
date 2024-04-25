@@ -16,9 +16,9 @@ body{
 	background: red;
 	overflow: hidden;
 	background-color: #414040;
-	backdrop-filter: blur(10px);
+	backdrop-filter: blur(15px);
 	border-radius: 10px;
-	box-shadow: 0 0 30px rgba(236, 204, 246, 0.589);
+	box-shadow: 0 0 30px white;
 }
 #chk{
 	display: none;
